@@ -1,0 +1,18 @@
+{
+  "name": "duotone-light-blue-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A light blue DuoTone syntax theme",
+  "keywords": [
+    "light",
+    "gold",
+    "blue",
+    "duotone",
+    "syntax"
+  ],
+  "repository": "https://github.com/tsangkenneth/duotone-light-blue-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">1.0.0"
+  }
+}
