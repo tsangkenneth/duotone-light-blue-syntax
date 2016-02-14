@@ -2,8 +2,15 @@
 
 A double-hue syntax theme for Atom, based on [DuoTone light](https://github.com/simurai/duotone-light-syntax) by [simurai](https://github.com/simurai) and the color shifts in [DuoTone blue dark](https://github.com/smlombardi/duotone-blue-dark) by [smlombardi](https://github.com/smlombardi). Original README by [simurai](https://github.com/simurai/duotone-light-syntax).
 
+![DuoTone light blue](https://raw.githubusercontent.com/tsangkenneth/duotone-light-blue-syntax/master/duotone-light-blue.png)
+
 DuoTone light blue uses only 2 hues (blue & gold) and has 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
 
+![CSS in DuoTone light blue](https://raw.githubusercontent.com/tsangkenneth/duotone-light-blue-syntax/master/css.png)
+
+![HTML in DuoTone light blue](https://raw.githubusercontent.com/tsangkenneth/duotone-light-blue-syntax/master/html.png)
+
+> The font in the screenshot is `Source Code Pro`. You can download it from https://github.com/adobe-fonts/source-code-pro.
 
 ## Language support
 
